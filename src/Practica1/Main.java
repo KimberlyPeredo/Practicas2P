@@ -2,7 +2,7 @@ package Practica1;
 
 public class Main {
     public static void main(String[] args) {
-        ListaSimplementeEnlazada listaSimplementeEnlazada=new ListaSimplementeEnlazada();
+        ListaSimplementeEnlazada listaSimplementeEnlazada = new ListaSimplementeEnlazada();
         //insertar elementos a nuestra lista
         listaSimplementeEnlazada.insertar(5);
         listaSimplementeEnlazada.insertar(4);
