@@ -1,7 +1,7 @@
 package Practica1;
 
 public class ListaSimplementeEnlazada {
-    Nodo primero;
+    protected Nodo primero;
 
     public ListaSimplementeEnlazada() {
         primero = null;
