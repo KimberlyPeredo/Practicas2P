@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio1;
+package Ejercicios_Practica1.Ejercicio1;
 
 public class VectorDatos {
     private int[] vector;

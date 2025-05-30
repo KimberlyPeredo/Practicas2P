@@ -1,6 +1,6 @@
-package Ejercicios.Ejercicio3;
+package Ejercicios_Practica1.Ejercicio3;
 
-import Ejercicios.Ejercicio1.VectorDatos;
+import Ejercicios_Practica1.Ejercicio1.VectorDatos;
 
 import java.util.Scanner;
 

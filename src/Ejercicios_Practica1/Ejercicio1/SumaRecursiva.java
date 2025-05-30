@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio1;
+package Ejercicios_Practica1.Ejercicio1;
 
 public class SumaRecursiva {
     public static int sumar(int[] vector, int indice) {

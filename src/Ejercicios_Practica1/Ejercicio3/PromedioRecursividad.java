@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio3;
+package Ejercicios_Practica1.Ejercicio3;
 
 public class PromedioRecursividad {
     public static int sumar(int[] vector, int indice) {

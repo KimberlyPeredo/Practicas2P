@@ -1,4 +1,4 @@
-package Ejercicios.Ejercicio2;
+package Ejercicios_Practica1.Ejercicio2;
 
 public class InversionRecursividad {
 
